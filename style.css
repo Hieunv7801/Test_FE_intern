@@ -22,6 +22,8 @@
 }
 .content__ncc{
     text-align: center;
+    width: 80%;
+    margin: 0 auto;
 }
 .content__ncc .lorem{
     background: rgb(212, 207, 207);
